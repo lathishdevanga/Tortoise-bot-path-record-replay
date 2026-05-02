@@ -1,9 +1,4 @@
-K Laxmi Pai
-	
-1:52 PM (13 minutes ago)
-	
-	
-to me
+
 # Tortoisebot in ROS2 Jazzy which records a path and replays it
 
 # Overview
